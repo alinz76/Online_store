@@ -1,4 +1,4 @@
-# Market_store Based on Django Framework
+# Online_store Based on Django Framework
 This is a project based on django framework with following features:
 1. user management features such as:
    - registration
